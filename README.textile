@@ -1,0 +1,7 @@
+Simple full-screen slide show with nice fade transition effect written in Python/PyGame.
+
+Upon execution it will start display all .jpg's in directory '1' from current directory until you hit escape key.
+
+If you hit any other key it will try to display images from that one-letter directory. If no such directory
+exists it will start displaying directory 'n' - you can put there big red "No such directory" image.
+
